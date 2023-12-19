@@ -1,0 +1,113 @@
+
+        <div class="row p-10">
+
+                                <div class="b2bcard col-12" style="width: 18rem;">
+                    <div class="row plr-10">
+                        <div class="fs-26 col-6">
+                            <strong><span class="badge rounded-pill bg-info text-dark">1</span></strong>
+                        </div>
+                    </div>
+
+                    <div class="row p-10">
+                        <div class="col-6">
+                            <strong>D G Automobiles</strong>
+                        </div>
+                        <div class="col-6">
+                            <strong>Periodic Service Free ( Spare charge Will be extra)</strong>
+                        </div>
+                    </div>
+                    <div class="row p-10">
+                        <div class="col-6">
+                            <strong>Name</strong>
+                        </div>
+                        <div class="col-6">
+                            <strong>Coupon use</strong>
+                        </div>
+                    </div>
+                    <div class="row p-10">
+                        <div class="col-6">
+                            D G Automobiles
+                        </div>
+                                                    <div class="col-6 badge badge-success mw-80" style="font-size:100%; border-radius:30px;left:10px;">
+                                Unused
+                            </div>
+                                            </div>
+                    <div class="p-10 fs-20 text-center">
+                        <a href="http://localhost/aadyshakti/customer/single-coupon-detail"><i class="fa fa-eye text-success"></i></a>
+                    </div>
+                </div>
+
+                                <div class="b2bcard col-12" style="width: 18rem;">
+                    <div class="row plr-10">
+                        <div class="fs-26 col-6">
+                            <strong><span class="badge rounded-pill bg-info text-dark">2</span></strong>
+                        </div>
+                    </div>
+
+                    <div class="row p-10">
+                        <div class="col-6">
+                            <strong>D G Automobiles</strong>
+                        </div>
+                        <div class="col-6">
+                            <strong>Get 2 Second Periodic Service Free</strong>
+                        </div>
+                    </div>
+                    <div class="row p-10">
+                        <div class="col-6">
+                            <strong>Name</strong>
+                        </div>
+                        <div class="col-6">
+                            <strong>Coupon use</strong>
+                        </div>
+                    </div>
+                    <div class="row p-10">
+                        <div class="col-6">
+                            D G Automobiles
+                        </div>
+                                                    <div class="col-6 badge badge-success mw-80" style="font-size:100%; border-radius:30px;left:10px;">
+                                Unused
+                            </div>
+                                            </div>
+                    <div class="p-10 fs-20 text-center">
+                        <a href="http://localhost/aadyshakti/customer/single-coupon-detail"><i class="fa fa-eye text-success"></i></a>
+                    </div>
+                </div>
+
+                                <div class="b2bcard col-12" style="width: 18rem;">
+                    <div class="row plr-10">
+                        <div class="fs-26 col-6">
+                            <strong><span class="badge rounded-pill bg-info text-dark">3</span></strong>
+                        </div>
+                    </div>
+
+                    <div class="row p-10">
+                        <div class="col-6">
+                            <strong>D G Automobiles</strong>
+                        </div>
+                        <div class="col-6">
+                            <strong>Car Washing Free</strong>
+                        </div>
+                    </div>
+                    <div class="row p-10">
+                        <div class="col-6">
+                            <strong>Name</strong>
+                        </div>
+                        <div class="col-6">
+                            <strong>Coupon use</strong>
+                        </div>
+                    </div>
+                    <div class="row p-10">
+                        <div class="col-6">
+                            D G Automobiles
+                        </div>
+                                                    <div class="col-6 badge badge-success mw-80" style="font-size:100%; border-radius:30px;left:10px;">
+                                Unused
+                            </div>
+                                            </div>
+                    <div class="p-10 fs-20 text-center">
+                        <a href="http://localhost/aadyshakti/customer/single-coupon-detail"><i class="fa fa-eye text-success"></i></a>
+                    </div>
+                </div>
+                    </div>
+
+
